@@ -2,7 +2,7 @@
 ##Create new files
 Path: resources/js/components
 1. App.vue 
-<code>
+
 <template>
     <main>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -26,7 +26,7 @@ Path: resources/js/components
 <script>
     export default {}
 </script>
-</code>
+
 2. Dashboard.vue
 3. Contact.vue
 4. Services.vue
